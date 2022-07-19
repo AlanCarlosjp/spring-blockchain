@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/criptoWallet.iml" filepath="$PROJECT_DIR$/.idea/criptoWallet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ms-crypto-generate/ms-cripto-generate.iml" filepath="$PROJECT_DIR$/ms-crypto-generate/ms-cripto-generate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ms-crypto-reciver/ms-crypto-reciver.iml" filepath="$PROJECT_DIR$/ms-crypto-reciver/ms-crypto-reciver.iml" />
+    </modules>
+  </component>
+</project>
